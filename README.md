@@ -10,3 +10,5 @@ A line follower robot is a type of robot designed to follow a path, usually a bl
 * Lithium-ion battery
 * Jumper cables
 * Embedded C ( upload code in Arduino)
+
+To Know more about it: https://drive.google.com/file/d/1uF7PtRvvr13PLUb541__7ijngI8o5UGI/view?usp=drive_link
